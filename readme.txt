@@ -7,8 +7,6 @@ Over on the right is a panel for line notes that you can connect to a line of co
 
 Line notes have flags to indicate what is going on in the code, too. Flags are as follows:
 
-['!fix', '!resolve']
-
 Something in the code needs to be reviewed and fixed before the pull request is merged.
 ['!fixed', '!resolved', '!completed']
 
